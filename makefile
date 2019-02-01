@@ -1,5 +1,5 @@
 all:
 	python picmaker.py
-image:
 	convert image.ppm image.png
+image:
 	open image.png
